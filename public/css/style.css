@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background: #03a9f4;
+    padding: 10px 0px;
+    text-align: center;
+}
+.logo{
+    color: #fff;
+    font-size: 40px;
+    font-family: "arial";
+}
+header input{
+    margin: 20px 0;
+    height: 40px;
+    padding: 0px 10px;
+    font-size: 16px;
+}
